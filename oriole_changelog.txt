@@ -1,0 +1,14 @@
+Highlights & Device Specific Changes:
+Build type: Weekly
+Device: Google Pixel 6 (oriole)
+Device maintainer: Victor (retrozenith)
+
+Highlights & Device Specific Changes:
+
+==================================
+17th December, 2024
+
+* Initial Android 15 stable release
+* Various fixes and improvements
+* Kernel 5.15.170 Upstream (Credits to HentaiOS)
+

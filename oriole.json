@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Florian Victor",
+			"oem": "Google",
+			"device": "Pixel 6",
+			"filename": "crDroidAndroid-15.0-20241217-oriole-v11.0.zip",
+			"download": "https://sourceforge.net/projects/ota-glikched/files/crDroid/11.x/oriole/crDroidAndroid-15.0-20241217-oriole-v11.0.zip/download",
+			"timestamp": 1734411113,
+			"md5": "8957add852a8a763c9e5b7653e4b8f64",
+			"sha256": "8baa9e64a7ee9ea41f07ddddb1d894be636d9bffa0ddf43c0f5183745627bd9d",
+			"size": 1855794363,
+			"version": "11.0",
+			"buildtype": "Weekly",
+			"forum": "",
+			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-15/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/glikched",
+			"telegram": "https://t.me/glikchedaosp",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
